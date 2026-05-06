@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I’m a seasoned data science and analytics leader with more than two decades of experience applying data and modeling to complex real-world systems. With a foundation in applied physics and early hands-on machine learning experience, I’ve built my career across industry-leading companies in consumer electronics, semiconductor and solar manufacturing equipment, gaming, and automotive—including Applied Materials, Microsoft, and Ford—working at the intersection of hardware, software, and data to advance product design, quality, manufacturing operations, and business decisions at scale.
+Today, I’m energized by the opportunity to turn emerging AI capabilities into practical tools, products, strategies, and decision systems that create real-world value faster than ever before—while keeping human judgment central and helping people thrive alongside technology.
 <!--
 **svidorashka/svidorashka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
